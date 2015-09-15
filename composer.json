@@ -1,0 +1,11 @@
+{
+    "name": "thinmy/torque",
+    "description": "Torque Web App",
+    "authors": [
+        {
+            "name": "Thinmy P. Alves",
+            "email": "thinmy@gmail.com"
+        }
+    ],
+    "require": {}
+}
